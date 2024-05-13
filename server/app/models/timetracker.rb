@@ -1,0 +1,2 @@
+class Timetracker < ApplicationRecord
+end

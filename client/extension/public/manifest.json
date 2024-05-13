@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Web Activity Tracker",
+  "description": "Connected a React extension to a Rails API",
+  "version": "1.0.0",
+  "permissions": ["scripting", "http://localhost:3000/*","https://main--activitytrackerpersonalizeddashboard.netlify.app/*","https://activity-tracker-server.onrender.com/*","activeTab","declarativeContent","storage","tabs"],
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "logo.png"
+  },
+  "icons":{
+    "128":"logo.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
+
