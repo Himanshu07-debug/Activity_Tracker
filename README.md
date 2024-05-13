@@ -9,9 +9,9 @@ Welcome to the Activity Tracker project! This repository contains the code for a
 - just go to `client/extension`
 - do `npm run build` , you will get the build folder uploaded in video
 
+- [Live Demo](https://drive.google.com/file/d/1PAPFaDxewECm-WyQqFg2tOjFhr-9FfZd/view?usp=sharing)
 
-
-
+---
 
 ## Directory Structure
 
